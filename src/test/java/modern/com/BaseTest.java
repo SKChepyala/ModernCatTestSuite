@@ -6,7 +6,7 @@ import java.net.MalformedURLException;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by Shiva on 09/06/2015.
+ * Created by Shiva Chepyala on 09/06/2015.
  */
 public class BaseTest extends BaseClass{
     String Browser="Chrome";

@@ -10,7 +10,7 @@ import org.openqa.selenium.safari.SafariDriver;
 import java.net.MalformedURLException;
 
 /**
- * Created by Shiva on 09/06/2015.
+ * Created by Shiva Chepyala on 09/06/2015.
  */
 public class BrowserFactory extends BaseClass {
 

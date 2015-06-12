@@ -7,7 +7,7 @@ import org.openqa.selenium.By;
 import java.util.Random;
 
 /**
- * Created by Shiva on 09/06/2015.
+ * Created by Shiva Chepyala on 09/06/2015.
  */
 public class SmokeTestSuite extends BaseTest {
     //Test Data

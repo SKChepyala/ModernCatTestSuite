@@ -6,7 +6,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 /**
- * Created by Shiva on 09/06/2015.
+ * Created by Shiva Chepyala on 09/06/2015.
  */
 public class Utils extends BaseClass{
     public static boolean acceptNextAlert = true;
